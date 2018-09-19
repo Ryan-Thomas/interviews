@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/Functional Program Design in Scala/example" value="1457141870000" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/Functional Programming in Scala/funsets" value="1466706627287" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/Functional Programming in Scala/objsets" value="1467874629675" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/Functional Programming in Scala/patmat" value="1468707769507" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/Functional Programming in Scala/recfun" value="1466454990713" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/HelloWorld" value="1465766898964" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/example" value="1459545174000" />
+        <entry key="$USER_HOME$/OneDrive/Programming/Scala/scala-web-project" value="1497069932764" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
